@@ -1,7 +1,7 @@
 - Hi, I’m Esquire Jah'swill
 - I am interested in technology
 - 🌱 I am currently Fluttering all day and night!
-- I would welcome colaboration in more flutter project with Flutter Devs.
+- I would welcome collaboration in more flutter projects with Flutter Devs.
 - Please reach me on +2347050298246
 - E-mail: meetjahwill@gmail.com
 
